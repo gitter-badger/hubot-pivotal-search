@@ -1,5 +1,7 @@
 # hubot-pivotal-search
 
+[![Join the chat at https://gitter.im/matharden/hubot-pivotal-search](https://badges.gitter.im/matharden/hubot-pivotal-search.svg)](https://gitter.im/matharden/hubot-pivotal-search?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Harness the full power of Pivotal Tracker's search from the comfort of your chat client.
 
 See [`src/pivotal-search.coffee`](src/pivotal-search.coffee) for full documentation.
